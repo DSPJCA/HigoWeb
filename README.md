@@ -1,3 +1,5 @@
+# .github.io
+
 # Higo Web
 > Bienvenido a Higo Web, tu tienda en línea de confianza para productos esenciales de calidad. Nuestra misión es simplificar tu vida diaria al ofrecerte una selección confiable y conveniente de productos directamente a tu puerta.
 
