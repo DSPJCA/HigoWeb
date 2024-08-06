@@ -20,4 +20,4 @@ Procede al pago: Completa tu compra con nuestro proceso de pago seguro.
 Disfruta de tus productos: Recibe tus productos directamente en tu puerta y disfruta de la comodidad de Higo Web.
 Contacto
 Si tienes alguna pregunta o necesitas asistencia, no dudes en contactarnos a través de nuestro sitio web o envíanos un correo electrónico a support@higoweb.com.
-https://dspjca.github.io/higo-web.github.io/
+https://dspjca.github.io/
